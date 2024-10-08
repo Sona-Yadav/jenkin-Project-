@@ -20,7 +20,7 @@ pipeline{
             steps{
             gitCheckout(
                 branch: "main",
-                url: "https://github.com/Sona-Yadav/Java_app_3.0.git"
+                url: "https://github.com/Sona-Yadav/jenkin-Project-.git"
             )
             }
         }
